@@ -54,7 +54,6 @@ pipeline{
         }
     }
 }
-https://github.com/mssouza/tasks-frontendhttps://github.com/mssouza/tasks-frontend
 
  
                 
